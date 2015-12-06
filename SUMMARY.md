@@ -8,4 +8,4 @@
    * [Untyped, Weakly Typed, or Strongly Typed?](p6.md)  
    * [Primitive Types](p3.md)
    * [Composite Types](p4.md)
-   * 
+   * [Typing](p5.md)
