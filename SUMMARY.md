@@ -9,7 +9,14 @@
    * [Primitive Types](p3.md)
    * [Strings](p25.md)
    * [Composite Types](p4.md)
+   * [Multidimensional Arrays](p26.md)
    * [Typing](p5.md)
 * Chapter 2
    * [Scope](p12.md)
-   * [Globals](p22.md)
+   * [Global Variables](p22.md)
+* Chapter 3
+   * [Inheritance](p7.md)
+   * [Method Binding](p8.md)
+   * [Copying Objects](p9.md)
+   * [Super Class](p23.md)
+   * 
