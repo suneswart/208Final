@@ -13,7 +13,7 @@
    * [Typing](p5.md)
 * Chapter 2
    * [Scope](p12.md)
-   * [Global Variables](p22.md)
+   * [Global Variables](p27.md)
 * Chapter 3
    * [Inheritance](p7.md)
    * [Method Binding](p8.md)
