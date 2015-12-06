@@ -1,5 +1,6 @@
 # Summary
 
-* [Intro](README.md)
+* Intro
 * [Hello World!](p1.md)
+* Hello World!
 
