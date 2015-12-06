@@ -20,4 +20,19 @@
    * [Method Binding](p8.md)
    * [Copying Objects](p9.md)
    * [Super Class](p23.md)
-   * 
+* Chapter 4
+   * [Hazards](p11.md)
+   * [Overloading Method Names](p19.md)
+   * [Dangling Else](p28.md)
+* Chapter 5
+   * [Parameter Passing](p13.md)
+   * [Evaluation Strategy](p14.md)
+   * [Polymorphism](p18.md)
+   * [Precedence of Operators](p29.md)
+* Chapter 6
+   * [Pointers](p24.md)
+   * [Reflection](p10.md)
+   * [List Comprehension](p15.md)
+   * [Higher Order Functions](p16.md)
+   * [Anonymous Functions](p17.md)
+   * [Regular Expressions](p20.md)
